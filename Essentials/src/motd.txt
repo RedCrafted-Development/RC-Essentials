@@ -1,3 +1,4 @@
-&3Welcome to &cUnraveledMC&3!
+&3Welcome to &cRedCrafted&3!
 &3Players online:&c {ONLINE}
-&3Forum:&c http://unraveledmc.com/forum
+&3Forum:&c http://redcrafted.com/forum
+&3Web-Page:&c http://redcrafted.com
